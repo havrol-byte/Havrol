@@ -1,29 +1,3 @@
-    Go home
-
-© 2025 Dan Cranney
-Follow me
-|
-Buy Me a Coffee
-Badges
-
-Add some badges and stats to your profile.
-
-Style badges:
-GitHub
-
-Please add your GitHub profile in the socials section.
-Stats Card
-Commit Streak
-Top Languages
-Top Repositories
-Follower Count
-X (Twitter)
-
-Please add your X profile in the socials section.
-Follower Count
-Twitch
-Streaming Status
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Havrol
 ===============================================================================================================================
 
